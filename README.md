@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**dalcaropaula/dalcaropaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- COLOCAR PRA TRADUZIR INGLES PORTUGUES -->
+<h2> 👋 Hey, I'm Paula!  :octocat: </h2>
 
-Here are some ideas to get you started:
+<h3>I'm a Software Development Student</h3>
+<p>I'm currently working on back-end and web development technologies like Python, JavaScript etc.</p>
+<p></p>I'm currently learning everything about back-end technologies.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Languages,Tools and Technologies </h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=45px, width=45px />
+               
+          
+
+          
+
+<h3>Softwares</h3>
+
+
