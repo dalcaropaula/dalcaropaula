@@ -1,5 +1,5 @@
 
-<!-- COLOCAR PRA TRADUZIR INGLES PORTUGUES -->
+<!-- CAR PRA TRADUZIR INGLES PORTUGUES -->
 <h2> 👋 Hey, I'm Paula!  :octocat: </h2>
 
 <h3>About Me </h3>
@@ -8,17 +8,16 @@
 <li> 🎓 Systems analysis and development on progress </li>
 <li> 💻 Software Developer since 2021</li>
 <li> 🎲 Love make puzzles in my free time</li>
-<li> 📍From Brasil </li>
+<li> 📍 From Brasil </li>
 </ul>
 
-<h3>Languages </h3>
+<h3>Skill set </h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=45px, width=45px />
-               
-<h3>Libraries and DevOps </h3>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=40px, width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height=40px, width=40px /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40px, width=40px/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40px, width=40px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height=40px, width=40px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height=40px, width=40px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40px, width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40px, width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40px, width=40px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40px, width=40px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height=40px, width=40px/>
+          
 
-<h3>Enviroment,IDEs and Tools </h3>             
 
-<h3>Technologies I'm interested to learn</h3>
 
 
