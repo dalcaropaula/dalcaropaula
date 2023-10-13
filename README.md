@@ -7,6 +7,7 @@
 <li> 📝 Currently working on back-end and web development technologies</li>
 <li> 🎓 Systems analysis and development on progress </li>
 <li> 💻 Software Developer since 2021</li>
+<li> 🎯 Focus on Python </li>
 <li> 🎲 Love make puzzles in my free time</li>
 <li> 📍 From Brasil </li>
 </ul>
