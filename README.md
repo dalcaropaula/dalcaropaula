@@ -23,9 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height=40px, width=40px/>
 </div>
 
-<h3>Talk to me </h3>
-          
-<a href="www.linkedin.com/in/pauladalcaro"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 
 
